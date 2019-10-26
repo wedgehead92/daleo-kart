@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "chrome_extension",
+    "server",
+    "canvas"
+  ],
+  "version": "1.0.0"
+}

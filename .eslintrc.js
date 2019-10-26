@@ -34,4 +34,4 @@ module.exports = {
     'no-restricted-syntax': 0,
     'curly': ['error', 'multi-line', 'consistent']
   }
-};
+}
